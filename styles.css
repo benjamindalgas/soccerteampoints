@@ -1,0 +1,48 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size:600%;
+    background-color: black;
+    color:white;
+    margin:0 auto;
+    width:90%;
+    text-align: center;
+    white-space:nowrap;
+}
+.button1{
+  background-color:blue;
+  font-size:50%;
+  color:white;
+  margin: 20px;
+  padding: 10px;
+  border: 10px;
+  text-align: right;
+  
+}
+
+.button2{
+  background-color:green;
+  font-size:100%;
+  color:white;
+  margin: 20px;
+  padding: 10px;
+  border: 10px;
+}
+.button3{
+  background-color:red;
+  font-size:100%;
+  color:white;
+  margin: 20px;
+  padding: 10px;
+  border: 10px;
+}
+.button4{
+  background-color:purple;
+  font-size:100%;
+  color:white;
+  margin: 20px;
+  padding: 10px;
+  border: 10px;
+}
+
+div#preload { display: none; }
